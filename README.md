@@ -11,7 +11,7 @@ Spring Boot 2.7.6, REST API, RestTemplate, Spring Cloud 2021.0.5, Eureka server,
 * Java 11
 * Gradle
 * Build and run with Java 11
-* You must registrate in https://www.themoviedb.org page
+* You can registrate in https://www.themoviedb.org page
 ```
 sudo update-alternatives --config java (select Java 11) 
 ```
